@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blockchain/Blockchain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2617">
+            <state relative-caret-position="2325">
               <caret line="155" column="32" lean-forward="true" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
               <folding>
                 <element signature="e#1087#1122#0" expanded="true" />
@@ -93,6 +93,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -159,7 +160,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blockchain/Blockchain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2617">
+        <state relative-caret-position="2325">
           <caret line="155" column="32" lean-forward="true" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
           <folding>
             <element signature="e#1087#1122#0" expanded="true" />
